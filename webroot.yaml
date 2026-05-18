@@ -5,3 +5,4 @@ sites:
     base_url: "https://cameraready.georgia.org"
     domain_contains: "cameraready.georgia.org"
     favicon: "/localsite/img/logo/states/GA-favicon.png"
+    sideNavLive: false
